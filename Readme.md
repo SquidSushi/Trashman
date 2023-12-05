@@ -1,4 +1,4 @@
-Welcome to Trashman
+Welcome to Trashman 2
 
 # raylibstarter - minimal edition
 
